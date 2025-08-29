@@ -7,8 +7,6 @@ The Tableau dashboard combines **trend analysis, ranking charts, and interactive
 - Which companies are leading the race  
 - How long organizations have been investing in LLM development  
 
-Custom **calculated fields** were created to measure years invested, identify the largest models, and enable **parameter-driven interactivity**.
-
 ---
 
 ##  Objective
