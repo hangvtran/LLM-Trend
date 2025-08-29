@@ -67,7 +67,12 @@ Custom **calculated fields** were created to measure years invested, identify th
 
 Here are some snapshots of the Tableau dashboard:
 
-![LLM Dashboard](The Rise and Rise of AI LLMs.png)
+<p align="center">
+  <img
+    src="The Rise and Rise of AI LLMs.png"
+    alt="The Rise and Rise of AI LLMs – Tableau Dashboard"
+    width="980">
+</p>
 
 
 
