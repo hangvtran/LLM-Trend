@@ -18,7 +18,7 @@ Custom **calculated fields** were created to measure years invested, identify th
 
 ---
 
-## 🛠 Project Components
+##  Project Components
 
 ### 1. Data Extraction
 - **Source**: Makeover Monday public dataset on LLMs  
