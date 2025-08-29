@@ -65,7 +65,6 @@ Custom **calculated fields** were created to measure years invested, identify th
 
 ##  Demo
 
-Here are some snapshots of the Tableau dashboard:
 
 <p align="center">
   <img
